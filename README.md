@@ -1,5 +1,5 @@
 <h1 align="center">Hi  👾 🤖, I'm Ozan</h1>
-<h2 align= "center"> I dedicate myself to learning software. In the future, I will develop myself and take part in new applications and projects. I will share a few projects on my Github profile. Welcome to my profile in advance.</h2>
+<h2 align= "center"> I dedicate myself to learning software 🦾 In the future, I will develop myself and take part in new applications and projects. ☞ I will share a few projects on my Github profile 💡  Welcome to my profile in advance. 👁 </h2>
 
 <h3 align="center">Mobile Developer, Data Scientist</h3>
 
