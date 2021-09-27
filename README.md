@@ -13,7 +13,6 @@
 
 - 💬 Ask me about **Swift, Android, Python, Spss, Oracle**
 
-- 📫 How to reach me **sarisoyozan@gmail.com**
 
 - ⚡ Fun fact **Chess, PC games, crazy fun with friends.**
 
