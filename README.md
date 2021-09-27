@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozansarisoy" alt="ozansarisoy" /></a> </p>
 
-- 🌱 I’m currently learning **Swift, Python**
+- 🌱 I’m currently learning **Swift, Python, JavaScript**
 
 - 📝 I regularly write articles on [https://sarisoyozan.medium.com/matrisin-kavramlarını-ve-detaylarından-bahsetmeden-önce-kısaca-matris-nedir-63d8b43d3d15](https://sarisoyozan.medium.com/matrisin-kavramlarını-ve-detaylarından-bahsetmeden-önce-kısaca-matris-nedir-63d8b43d3d15)
 
-- 💬 Ask me about **Swift, Android, Python, Spss, Oracle**
+- 💬 Ask me about **Swift, Android, Python, Spss, SQL, JavaScript**
 
 
 - ⚡ Fun fact **Chess, PC games, crazy fun with friends.**
